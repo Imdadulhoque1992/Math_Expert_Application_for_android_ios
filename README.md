@@ -1,2 +1,2 @@
 # Math_Expert_Application_for_android_ios
-Simple mathematical problem solving application
+Simple mathematical problem solving application for kids
